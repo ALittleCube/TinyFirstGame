@@ -1,0 +1,17 @@
+﻿  AdultBoar.cpp
+  BabyBoar.cpp
+  Boar.cpp
+  Deamon.cpp
+  Game.cpp
+  Leon.cpp
+  MC.cpp
+  Mission1.cpp
+  Missions.cpp
+  ML.cpp
+  Monster.cpp
+  Slime.cpp
+  Storyline.cpp
+  TinyFirstGame.cpp
+C:\Users\kseni\OneDrive\Desktop\StudyCube\Semester 2\Algo\TinyFirstGame\TinyFirstGame.cpp(6,1): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+  Code wird generiert...
+  TinyFirstGame.vcxproj -> C:\Users\kseni\OneDrive\Desktop\StudyCube\Semester 2\Algo\TinyFirstGame\x64\Debug\TinyFirstGame.exe
